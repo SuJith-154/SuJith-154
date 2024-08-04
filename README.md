@@ -26,7 +26,7 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 </p>
 
-<p align="left"><strong>Python is my most used language!</strong></p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujith-154&show_icons=true&locale=en&layout=compact" alt="sujith-154" /></p>
 
