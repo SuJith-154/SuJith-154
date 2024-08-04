@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujith-154&label=Profile%20views&color=0e75b6&style=flat" alt="sujith-154" /> </p>
 
-- 🌱 I’m currently learning **Python,kotlin**
+- 🌱 I’m currently learning **Python,Django**
 
 - 📝 I regularly write articles on [nanbaninfo.com](nanbaninfo.com)
 
