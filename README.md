@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **Python, C, Java, HTML, CSS, UI design, problem solving**
 
+-    Learning Machine Learning*
+
 - 📫 How to reach me **sujipjk03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
