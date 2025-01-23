@@ -50,6 +50,6 @@
 ---
 
 ## 💡 Fun Facts
-🎸 I love exploring music during coding breaks!  
+🎸 I love exploring!  
 🌍 My dream is to work in a product-based company with a strong focus on innovation.  
 
