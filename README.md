@@ -1,35 +1,55 @@
-<h1 align="center">Hi 👋, I'm Sujith Senthilraj</h1>
-<h3 align="center">A passionate UI and Python developer from India</h3>
+# 👋 Hi, I'm Sujith Senthilraj!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujith-154&label=Profile%20views&color=0e75b6&style=flat" alt="sujith-154" /> </p>
+## 🚀 About Me
+🎓 Aspiring **Bachelor of Engineering** student with a passion for technology and development.  
+💻 Front-End Developer | Python & Java Enthusiast.  
+🌱 Currently honing my skills in **Data Structures, Algorithms**, and **Web Development**.  
 
-- 🌱 I’m currently learning **Python, Django**
+---
 
-- 📝 I regularly write articles on [nanbaninfo.com](https://nanbaninfo.com)
+## 🛠️ Skills & Tools
+- **Languages:** Python, Java, JavaScript, HTML, CSS, SQL  
+- **Frameworks:** Django, Bootstrap  
+- **Tools:** Power BI, Figma, Git, MySQL, Pandas  
+- **Other Knowledge:** AI basics, UI/UX Design  
 
-- 💬 Ask me about **Python, C, Java, HTML, CSS, UI design, problem solving**
+---
 
--    Learning Machine Learning*
+## 🏆 Achievements
+- 🥈 **2nd Prize** in UI Design Competition, Kongu Engineering College, 2023.  
+- 🎖️ **Hackathon Leader** at Manakula Vinayagar College, Pondicherry, 2023.  
 
-- 📫 How to reach me **sujipjk03@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sujith-senthilraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujith-senthilraj" height="30" width="40" /></a>
-<a href="https://instagram.com/itz._me_sujith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz._me_sujith" height="30" width="40" /></a>
-</p>
+## 🌟 My Projects
+- **[Greenly](#):** A project to calculate home emissions based on vehicle carbon release.  
+- **[Turf Booking App](#):** A web app for booking turf, gym, and entertainment zone slots.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-</p>
+---
 
+## 📊 Certifications
+- **Soft Skills** - NPTEL (2023)  
+- **Python Basics** - GUVI (2023)  
+- **Java Basics** - Netstack (2023)  
+- **JavaScript Basics** - IIT Bombay (2024)  
+- **Introduction to IIOT** - NPTEL (2024)  
+- **AI Basics** - Novitech (2023)  
 
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujith-154&show_icons=true&locale=en&layout=compact" alt="sujith-154" /></p>
+## 🔗 Connect With Me!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)  
 
- 
+---
+
+## 📈 GitHub Stats
+![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)
+
+---
+
+## 💡 Fun Facts
+🎸 I love exploring music during coding breaks!  
+🌍 My dream is to work in a product-based company with a strong focus on innovation.  
+
