@@ -44,8 +44,8 @@
 ---
 
 ## 📈 GitHub Stats
-![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)
+![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuJith-154&show_icons=true&theme=radical)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuJith-154&layout=compact&theme=radical)](https://github.com/your-username)
 
 ---
 
