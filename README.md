@@ -108,21 +108,3 @@ Data-driven salary estimator using **Linear Regression** based on experience, te
 | Introduction to AI | Novitech | 2023 |
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-
-![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuJith-154&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuJith-154&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/SuJith-154)
-
-</div>
-
----
-
-<div align="center">
-
-*Building systems that think. One agent at a time.*
-
-</div>
