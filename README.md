@@ -1,13 +1,5 @@
 <div align="center">
 
-```
-   _____            _ _   _     
-  / ____|          (_) | | |    
- | (___  _   _      _| |_| |__  
-  \___ \| | | |    | | __| '_ \ 
-  ____) | |_| | _  | | |_| | | |
- |_____/ \__,_|(_) |_|\__|_| |_|
-```
 
 # Sujith S
 ### AI Engineer · LLM Systems · Multi-Agent Developer
