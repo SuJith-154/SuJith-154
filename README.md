@@ -62,6 +62,21 @@ Data-driven salary estimator using **Linear Regression** based on experience, te
 `Python` `Scikit-learn` `Pandas` `NumPy`
 
 ---
+ 
+### 🏠 [House Price Prediction](https://github.com/SuJith-154/House-price-pred) — ML Notebook
+> Exploratory regression model predicting property prices from location, size, and amenity features.
+ 
+`Python` `Jupyter Notebook` `Scikit-learn` `Pandas`
+ 
+---
+ 
+### 📉 [Dimensionality Reduction — Human Activity](https://github.com/SuJith-154/Dimesion_reduction-using-K-means-clustering-for-human-activity) — Unsupervised ML
+> K-Means clustering with PCA dimensionality reduction applied to human activity recognition sensor data.
+ 
+`Python` `Jupyter Notebook` `K-Means` `PCA` `NumPy`
+ 
+---
+ 
 
 ## Experience
 
